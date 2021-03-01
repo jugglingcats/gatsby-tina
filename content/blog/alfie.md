@@ -1,6 +1,5 @@
 ---
-{}
----test:1
+test:1
 ---
 woeifjoeijqwd
 qwd
@@ -16,5 +15,5 @@ wefoqiwejfdiqojwd
 weoifjwoiejfwef
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTcxNTQ5N119
+eyJoaXN0b3J5IjpbLTExOTAwNTkwMDhdfQ==
 -->
